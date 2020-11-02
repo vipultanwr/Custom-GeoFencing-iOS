@@ -9,7 +9,7 @@ import time
 
 chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
 url = 'https://www.youtube.com/watch?v=9AifNHo4hTk'
-api = PyiCloudService('vipultanwr@gmail.com','Tanwar@1993')
+api = PyiCloudService('appleid','password')
 
 s1 = 'Hello Vipul, Welcome home…'
 s2 = 'Playing your favorite songs from youtube…'
